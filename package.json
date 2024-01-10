@@ -1,12 +1,12 @@
 {
-  "name": "posthtml-plugin-starter",
-  "description": "PostHTML plugin starter kit.",
+  "name": "posthtml-i18n",
+  "description": "Internalization with PostHTML.",
   "version": "0.0.0",
   "license": "MIT",
   "author": "PostHTML (https://github.com/posthtml)",
-  "bugs": "https://github.com/posthtml/posthtml-plugin-starter/issues",
-  "homepage": "https://github.com/posthtml/posthtml-plugin-starter",
-  "repository": "posthtml/posthtml-plugin-starter",
+  "bugs": "https://github.com/posthtml/posthtml-i18n/issues",
+  "homepage": "https://github.com/posthtml/posthtml-i18n",
+  "repository": "posthtml/posthtml-i18n",
   "type": "module",
   "exports": "./lib/index.js",
   "engines": {
