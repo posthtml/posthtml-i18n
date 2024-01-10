@@ -1,7 +1,7 @@
 {
   "name": "posthtml-i18n",
   "description": "Internalization with PostHTML.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "PostHTML (https://github.com/posthtml)",
   "bugs": "https://github.com/posthtml/posthtml-i18n/issues",
@@ -9,7 +9,9 @@
   "repository": "posthtml/posthtml-i18n",
   "type": "module",
   "exports": "./lib/index.js",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "engines": {
     "node": ">=18.0.0"
   },
