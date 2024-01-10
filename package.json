@@ -9,6 +9,7 @@
   "repository": "posthtml/posthtml-i18n",
   "type": "module",
   "exports": "./lib/index.js",
+  "files": ["lib"],
   "engines": {
     "node": ">=18.0.0"
   },
